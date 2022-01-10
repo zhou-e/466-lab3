@@ -1,0 +1,16 @@
+Confusion Matrix:
+     0.0  1.0
+0.0  339   51
+1.0   71  457
+
+Overall Accuracy:
+0.8671023965141612
+
+Overall Error:
+0.1328976034858388
+
+Average Accuracy:
+0.8671023965141612
+
+Average Error:
+0.13289760348583876

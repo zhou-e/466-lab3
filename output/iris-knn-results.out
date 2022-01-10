@@ -1,0 +1,17 @@
+Confusion Matrix:
+                 Iris-setosa  Iris-versicolor  Iris-virginica
+Iris-setosa               50                0               0
+Iris-versicolor            0               48               2
+Iris-virginica             0                2              48
+
+Overall Accuracy:
+0.9733333333333334
+
+Overall Error:
+0.02666666666666667
+
+Average Accuracy:
+0.9733333333333334
+
+Average Error:
+0.026666666666666665
